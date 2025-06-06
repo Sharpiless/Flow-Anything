@@ -3,7 +3,10 @@
 [Paper Link (ArXiv Version Comming Soon)]
 [Project Page](https://github.com/Sharpiless/Flow-Anything)
 
-![Demo](https://github.com/user-attachments/assets/3a772b59-0c5b-4cb7-ac4e-3c80d748b745)
+
+
+https://github.com/user-attachments/assets/d0e9a972-8864-4e26-9276-85124217afc9
+
 
 ---
 
