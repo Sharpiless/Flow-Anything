@@ -1,9 +1,6 @@
 # Flow-Anything: Learning Real-World Optical Flow Estimation from Large-Scale Single-view Images
 
 [Paper Link](https://arxiv.org/pdf/2506.07740)
-[Project Page](https://github.com/Sharpiless/Flow-Anything)
-
-
 
 https://github.com/user-attachments/assets/d0e9a972-8864-4e26-9276-85124217afc9
 
